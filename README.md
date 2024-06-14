@@ -1,4 +1,4 @@
-# Studcamp project
+# Samsung project
 
 - link to backend:
 - 
